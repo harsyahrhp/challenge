@@ -1,13 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import NavigationBar from "./components/NavigationBar"
+import './App.css'
+import ContainHeader from './components/ContainHeader';
+import NavigationBar from './components/NavigationBar'; 
+import SewaRental from './components/SewaRental';
 
 function App() {
   return (
-    <div>
-      <h1>test</h1>
+      <div className='background'>
       <NavigationBar />
-    </div>
+      <SewaRental/>
+      <ContainHeader />
+      </div>
   );
 }
 

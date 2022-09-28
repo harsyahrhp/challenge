@@ -1,0 +1,53 @@
+.background{
+    height: 70vh;
+    background-color:  #DEF1DF;
+    justify-content: end;
+    align-items: flex-end;
+    text-align: left;
+}
+
+.wrapper{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    flex: 1;
+    align-items: center;
+    display: flex;
+}
+
+.button{
+    border: 10px;
+    color: blue;
+    padding: 10px 10px 10px 10px;
+}
+
+.right{
+    display: flex;
+    flex: 10;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 10;
+    gap: 2rem;
+    margin-right: -18rem;
+}
+
+.mercy{
+    background-image: url(../asset/photo/bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 300px;
+    background-size: 15cm 10cm;
+}
+
+.textRental{
+    margin-right: 10cm; 
+}
