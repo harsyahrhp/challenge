@@ -1,14 +1,21 @@
 import './App.css'
 import ContainHeader from './components/ContainHeader';
+import Faq from './components/Faq';
+import Footer from './components/Footer';
 import NavigationBar from './components/NavigationBar'; 
-import SewaRental from './components/SewaRental';
+import Testimonial from './components/Testimonial';
+import WhyUs from './components/WhyUs';
+
 
 function App() {
   return (
       <div className='background'>
       <NavigationBar />
-      <SewaRental/>
       <ContainHeader />
+      <WhyUs />
+      <Testimonial />
+      <Faq />
+      <Footer />
       </div>
   );
 }

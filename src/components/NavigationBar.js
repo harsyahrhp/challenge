@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "react-bootstrap";
 import "../style/navbar.css"
 
 const NavigationBar = () => {
@@ -7,7 +8,7 @@ const NavigationBar = () => {
             <div className="wrapper">
                 <div className="left">
                     <div className="button">
-                     <button>      </button>
+                     <Button>Binar</Button>
                      </div>
                 </div>
 
@@ -22,15 +23,6 @@ const NavigationBar = () => {
 
 
             </div>
-
-            {/* <div className="mercy">
-            <img src={mercyImage} height='300'></img>
-            </div>
-
-            <div className="textRental">
-             <h1>Sewa & Rental Mobil Terbaik di kawasan (Lokasimu)</h1>
-             <h4>Selamat datang di Binar Car Rental. Kami menyediakan mobil kualitas terbaik dengan harga terjangkau. Selalu siap melayani kebutuhanmu untuk sewa mobil selama 24 jam.</h4>
-         </div> */}
 
         </header>
           

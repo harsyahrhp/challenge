@@ -16,13 +16,16 @@
     flex: 1;
     align-items: center;
     display: flex;
+
 }
 
 .button{
-    border: 10px;
-    color: blue;
-    padding: 10px 10px 10px 10px;
-}
+    color: aliceblue;
+    font-size: 18px;
+    background-color: blue;
+    border: none;
+    margin-left: 120px;
+}  
 
 .right{
     display: flex;
@@ -40,14 +43,4 @@
     margin-right: -18rem;
 }
 
-.mercy{
-    background-image: url(../asset/photo/bg.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 300px;
-    background-size: 15cm 10cm;
-}
 
-.textRental{
-    margin-right: 10cm; 
-}

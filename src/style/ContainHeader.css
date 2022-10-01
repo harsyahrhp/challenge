@@ -1,0 +1,46 @@
+.intro{
+    height: 40vh;
+    display: flex;
+    margin-top: 4rem;
+}
+
+.left1{
+    display: flex;
+    position: relative;
+    flex: 1;
+}
+
+.textRental>:nth-child(1){
+    font-style: bold;
+    font-size: 30px;
+}
+
+.textRental>:nth-child(2){
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+.buttonsewa{
+    width: 10rem;
+    height: 3rem;
+    color: aliceblue;
+    font-size: 18px;
+    background-color: #5CB85F;
+    border: none;
+}
+
+.right1{
+    flex: 1;
+    margin-top: -32px;
+}
+
+.mercy{
+    width: 50px;
+    height: 50px;
+}
+
+.servis{
+    margin-top: 90px;
+    margin-left: 70px;
+}

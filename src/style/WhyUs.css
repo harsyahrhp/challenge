@@ -1,0 +1,23 @@
+.textwhy{
+    margin-top: 80px;
+    text-align: left;
+}
+
+.textwhy>:nth-child(1){
+    font-style: bold;
+    font-size: 30px;
+}
+
+.textwhy>:nth-child(2){
+    font-style: bold;
+    font-size: 20px;
+}
+
+.frame{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+    align-items: center;
+    gap: 2rem;
+}

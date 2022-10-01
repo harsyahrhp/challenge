@@ -1,0 +1,14 @@
+.faq{
+    display: flex;
+    margin-top: 100px;
+}
+
+.left2{
+    flex: 1;
+}
+
+.right2{
+    flex: 1;
+    display: grid;
+    gap: 1rem;
+}

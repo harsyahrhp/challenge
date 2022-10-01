@@ -1,0 +1,48 @@
+.texttesti{
+    align-items: center;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.texttesti>:nth-child(1){
+    font-style: bold;
+    font-size: 25px;
+}
+
+.texttesti>:nth-child(2){
+    font-style: bold;
+    font-size: 20px;
+}
+
+.testiimg{
+   margin-top: center;
+   display: flex;
+   flex-direction: row;
+}
+
+.kotak{
+    background-color: #0D28A6;
+    border-radius: 13px;
+    height: 300px;
+    width: 60rem;
+    background-attachment: fixed;
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 100px;
+}
+
+.textkotak{
+    padding: 70px;
+}
+
+.textkotak>:nth-child(1){
+    font-style: bold;
+    font-size: 30px;
+}
+
+.textkotak>:nth-child(2){
+    font-style: bold;
+    font-size: 20px;
+    margin-right: 15rem;
+    margin-left: 15rem;
+}

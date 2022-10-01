@@ -1,0 +1,49 @@
+.row{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.textdesc>:nth-child(1){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.textdesc>:nth-child(2){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.textdesc>:nth-child(3){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.textmenu>:nth-child(1){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.textmenu>:nth-child(2){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.textmenu>:nth-child(3){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.textmenu>:nth-child(4){
+    font-style: bold;
+    font-size: 15px;
+}
+
+.conect>:nth-child(1){
+    font-style: bold;
+    font-size: 17px;
+}
+
+.copy>:nth-child(1){
+    font-style: bold;
+    font-size: 15px;
+}
