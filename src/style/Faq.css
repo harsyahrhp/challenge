@@ -1,3 +1,7 @@
+.Container{
+    padding: 0 1rem;
+}
+
 .faq{
     display: flex;
     margin-top: 100px;

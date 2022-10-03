@@ -20,7 +20,7 @@ const ContainHeader = () => {
 
     <div className="right1">
         <div className="mercy">
-        <img src={Mercy} height="335" width={505}></img>
+        <img src={Mercy}></img>
         </div>
         
     </div>
@@ -28,7 +28,7 @@ const ContainHeader = () => {
 </div>
 
 <div className="servis">
-    <img src={servis} width="850"></img>
+    <img src={servis}></img>
 </div>
 
 
